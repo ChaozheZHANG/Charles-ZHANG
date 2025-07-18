@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChaozheZHANG
-- 🏫 HKUSTGZ MPhil student in AI
+- 🏫 HKUSTGZ MPhil student in AI, PhD student in CMA Thrust
 - 🔥 Founder of Zhuhai JUKA Culture Communication Co., Ltd.
 - 👀 I’m interested in basketball
 - 🌱 I’m currently learning the diffusion model
