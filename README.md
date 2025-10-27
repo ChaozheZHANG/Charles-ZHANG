@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChaozheZHANG
+- 👋 Hi, I’m @Charles
 - 🏫 HKUSTGZ MPhil student in AI, now PhD 
 - 🔥 Founder of JUKA Culture Communication Co., Ltd.
 - 👀 I’m interested in basketball
