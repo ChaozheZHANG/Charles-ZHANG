@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChaozheZHANG
-- 🏫 HKUSTGZ MPhil student in AI, PhD student in CMA Thrust
-- 🔥 Founder of Zhuhai JUKA Culture Communication Co., Ltd.
+- 🏫 HKUSTGZ MPhil student in AI, now PhD 
+- 🔥 Founder of JUKA Culture Communication Co., Ltd.
 - 👀 I’m interested in basketball
 - 🌱 I’m currently learning the diffusion model
 - 📫 How to reach me【czhang382@connect.hkust-gz.edu.cn】
