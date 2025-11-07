@@ -1,11 +1,11 @@
-![4911762516655_ pic](https://github.com/user-attachments/assets/9c31cfc8-b305-4fa9-90e0-c4e958e54c64)- 👋 Hi, I’m @Charles
+👋 Hi, I’m @Charles
 - 🏫 HKUSTGZ MPhil student in AI, now PhD 
 - 🔥 Founder of JUKA Culture Communication Co., Ltd.
 - 👀 I’m interested in basketball
 - 🌱 I’m currently learning the diffusion model
 - 📫 How to reach me【czhang382@connect.hkust-gz.edu.cn】
   
-![Uploading 4911762516655_.pic.jpg…]()
+<img src="https://github.com/user-attachments/assets/732be10a-c930-4709-ad90-93db8e22ddeb" width="30%" alt="Profile Picture">
 
 Research keywords: Generate AI, AI Agent tool and Collaborative HCI with AI
 
